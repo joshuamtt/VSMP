@@ -1,0 +1,3 @@
+/home/jt/projects/C/VSMP/build/CMakeFiles/VSMP.dir
+/home/jt/projects/C/VSMP/build/CMakeFiles/edit_cache.dir
+/home/jt/projects/C/VSMP/build/CMakeFiles/rebuild_cache.dir
